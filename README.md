@@ -37,3 +37,6 @@ Above video is from my live video emotion detection project
 
 #### Deep Learning based Face Detector in OpenCV
 Using res10_300x300_ssd_iter_140000_fp16.caffemodel & deploy.prototxt
+![](OutputDNNLowLight.gif)
+
+In low light also DNN based face detector finding the face.
